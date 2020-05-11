@@ -1,3 +1,5 @@
+board [" "," "," "," "," "," "," "," "," "]
 def turn_count(board)
-return 3
+  turn = 0
+
 end
