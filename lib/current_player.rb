@@ -6,5 +6,5 @@ def turn_count(board)
       count += 1
   else count = 0
   end
-  return "turn #{count}"
+  puts "turn #{count}"
 end
